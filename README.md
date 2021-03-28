@@ -1,6 +1,6 @@
-# Synxia Css/Js 👑🐧
+# Synxia Css/Js ✨
 
-# Official Library ReadMe 🤫
+## Official Library ReadMe 🤫
 
 ## What Is Synxia ? 🐧
 
