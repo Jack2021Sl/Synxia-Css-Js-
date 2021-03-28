@@ -10,5 +10,6 @@ Synxia is a multi usable Library combined with an npm & cdn to meet ur needs of 
 ### You can use synxia by putting the following links in your head tag
 
 <code><i>https:// </i> </code>
+<br />
 <code><i>https:// </i> </code>
 
