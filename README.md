@@ -24,7 +24,6 @@ You can use synxia by putting the following links in your head tag
 > __Version 1__ <br />
 `Link :`
 
-
 > __Version 2__ <br />
 
 `Link :`
