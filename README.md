@@ -22,8 +22,17 @@ You can use synxia by putting the following links in your head tag
 ### *VERSIONS 🔗🖇️*
 
 > __Version 1__ <br />
-`Link :`
+
+### `Links :`
+
+**Npm**
+
+**Cdn**
 
 > __Version 2__ <br />
 
-`Link :`
+### `Link :`
+
+**Npm :**
+
+**Cdn :**
