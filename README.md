@@ -3,15 +3,15 @@
 
 # Synxia Css/Js ✨
 
-<code> * ## Official Library ReadMe 🤫 ## * </code>
+<code> * # Official Library ReadMe 🤫 # * </code>
 
 ## FAQ ❔
 
-### *What Is Synxia ? 🐧
+### * What Is Synxia ? 🐧
 
 Synxia is a multi usable Library combined with an npm & cdn to meet ur needs of js and css fastly
 
-### *How do i get Synxia ? 👑
+### * How do i get Synxia ? 👑
 
 #### You can use synxia by putting the following links in your head tag
 
@@ -19,5 +19,5 @@ Synxia is a multi usable Library combined with an npm & cdn to meet ur needs of 
 <br />
 <code><i>https:// </i> </code>
 
-# *VERSIONS 🔗🖇️
+### * VERSIONS 🔗🖇️
 
