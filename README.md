@@ -1,5 +1,5 @@
 
-> <--------------------->
+# <--------------------->
 
 # Synxia Css/Js ✨
 
@@ -21,3 +21,8 @@ You can use synxia by putting the following links in your head tag
 
 ### *VERSIONS 🔗🖇️*
 
+> __Version 1__
+
+
+
+> __Version 2__
