@@ -22,9 +22,9 @@ You can use synxia by putting the following links in your head tag
 ### *VERSIONS 🔗🖇️*
 
 > __Version 1__
-
+`Link : `
 
 
 > __Version 2__
 
-`<addr>` h
+`Link :`
