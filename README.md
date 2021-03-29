@@ -43,6 +43,14 @@ You can use synxia by putting the following links in your head tag
 **Cdn :**
 `h`
 <br />
+
+### Differences 
+Version 1 | Version 2
+------------ | -------------
+Design | Design
+Features | Features
+
+<br />
 ```py
  'To Be Continued' 
 ``` 
