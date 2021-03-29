@@ -3,7 +3,7 @@
 
 # Synxia Css/Js ✨
 
-<code> ## Official Library ReadMe 🤫 </code>
+<code> * ## Official Library ReadMe 🤫 * </code>
 
 ## FAQ ❔
 
