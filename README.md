@@ -1,4 +1,4 @@
-<html>
+
 # <---------------------->
 
 # Synxia Css/Js ✨
@@ -20,4 +20,4 @@ Synxia is a multi usable Library combined with an npm & cdn to meet ur needs of 
 <code><i>https:// </i> </code>
 
 # VERSIONS 🔗🖇️
-</html>
+
