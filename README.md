@@ -42,6 +42,9 @@ You can use synxia by putting the following links in your head tag
 
 **Cdn :**
 `h`
+<br />
+<center>
 ```py
  'To Be Continued' 
 ``` 
+</center>
