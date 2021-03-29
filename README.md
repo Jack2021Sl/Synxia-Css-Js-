@@ -43,6 +43,6 @@ You can use synxia by putting the following links in your head tag
 **Cdn :**
 `h`
 
-# ```py
+<h1> ```py
 'To Be Continued' 
-```
+``` </h1>
