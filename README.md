@@ -44,12 +44,15 @@ You can use synxia by putting the following links in your head tag
 `h`
 <br />
 
-### Differences 
+<h3> Differences </h3>
+<div id="id">
 Version 1 | Version 2
 ------------ | -------------
 Design | Design
 Features | Features
+</div>
 <br />
+
 ```py
  'To Be Continued' 
 ``` 
