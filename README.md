@@ -1,6 +1,6 @@
-
+```py
 # <--------------------->
-
+```
 # Synxia Css/Js ✨
 
 <code> * # Official Library ReadMe 🤫 # * </code>
@@ -43,5 +43,5 @@ You can use synxia by putting the following links in your head tag
 **Cdn :**
 `h`
 ```py
-# 'To Be Continued' 
+ 'To Be Continued' 
 ``` 
