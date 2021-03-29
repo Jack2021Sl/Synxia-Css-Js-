@@ -42,7 +42,6 @@ You can use synxia by putting the following links in your head tag
 
 **Cdn :**
 `h`
-
-<h1> ```py
-'To Be Continued' 
-``` </h1>
+```py
+<h1 target="none" href="">'To Be Continued' </h1>
+``` 
