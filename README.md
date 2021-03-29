@@ -49,7 +49,6 @@ Version 1 | Version 2
 ------------ | -------------
 Design | Design
 Features | Features
-
 <br />
 ```py
  'To Be Continued' 
