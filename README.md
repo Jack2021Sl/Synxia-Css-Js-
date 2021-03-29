@@ -25,9 +25,11 @@ You can use synxia by putting the following links in your head tag
 
 #### `Links :`
 
-**Npm**
+**Npm :** 
+`h`
 
-**Cdn**
+**Cdn :** 
+`h`
 
 <br />
 
@@ -36,5 +38,7 @@ You can use synxia by putting the following links in your head tag
 #### `Links :`
 
 **Npm :**
+`h`
 
 **Cdn :**
+`h`
