@@ -1,4 +1,5 @@
-# <--------------------->
+<html>
+<h1 class="red" <---------------------> >
 
 # Synxia Css/Js ✨
 
@@ -19,3 +20,9 @@ Synxia is a multi usable Library combined with an npm & cdn to meet ur needs of 
 <code><i>https:// </i> </code>
 
 # VERSIONS 🔗🖇️
+<style>
+.red{
+color:red;
+}
+</style>
+</html>
