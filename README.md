@@ -9,7 +9,7 @@
 
 ### *What Is Synxia ? 🐧*
 
-Synxia is a multi usable Library combined with an npm & cdn to meet ur needs of js and css fastly
+Synxia is a multi usable Library combined with an npm & cdn to meet ur needs of js and css fastly (There is also a js cdn for both css and js in one if u want it'll be released soon)
 
 ### *How do i get Synxia ? 👑*
 
