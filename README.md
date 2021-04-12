@@ -1,13 +1,7 @@
 ```py
 # <--------------------->
 ```
-## Hey 👋, This is Synxia
 [![Github Badge](https://img.shields.io/badge/-Synxia.Js-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Synxia.Js/)](https://www.github.com/Synxia.Js/) 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Synxia.Js alt=Synxia.Js /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Synxia.Js&show_icons=true&include_all_commits=true)](https://github.com/Synxia.Js/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synxia.Js&layout=compact)](https://github.com/Synxia.Js/github-readme-stats)
 
 # Synxia Css/Js ✨
 
