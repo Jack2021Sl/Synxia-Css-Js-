@@ -2,6 +2,7 @@
 # <--------------------->
 ```
 [![Github Badge](https://img.shields.io/badge/-Synxia.Js-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Synxia.Js/)](https://www.github.com/Synxia.Js/) 
+<img src="https://img.shields.io/badge/Version-0.4-green"> </img>
 
 # Synxia Css/Js ✨
 
