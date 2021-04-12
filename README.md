@@ -4,7 +4,7 @@
 # Synxia Css/Js ✨
 
 <code> * # Official Library ReadMe 🤫 # * </code>
-<<img src="" alt="downloads: 600k/month">
+<img src="" alt="downloads: 600k/month">
 ## FAQ ❔
 
 ### *What Is Synxia ? 🐧*
