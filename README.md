@@ -4,7 +4,7 @@
 # Synxia Css/Js ✨
 
 <code> * # Official Library ReadMe 🤫 # * </code>
-<a><img src="https://www.styled-components.com/proxy/downloads.svg" alt="downloads: 00k/month"></a>
+
 ## FAQ ❔
 
 ### *What Is Synxia ? 🐧*
